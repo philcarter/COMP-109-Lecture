@@ -1,5 +1,5 @@
 <!--![Power-USER-Mastering-MS-Excel-Banner.jpg](/images/Power-USER-Mastering-MS-Excel-Banner.jpg)-->
-##### [Lecture 1: Getting Started with Excel](COMP-109-Lecture/pages/m01)
+##### [Lecture 1: Getting Started with Excel](/pages/m01)
 
 |
 [Formatting Numbers](COMP-109-Lecture/pages/m01#formatting-numbers) |
