@@ -3,6 +3,7 @@
 [Introducing Excel and Spreadsheets](./pages/m01#introducing-excel-and-spreadsheets) | [What is Excel?](./pages/m01#what-is-excel) | [Microsoft Excel terminology](./pages/m01#microsoft-excel-terminology) | [Planning a Workbook](./pages/m01#planning-a-workbook) | [Entering Text, Dates, and Numbers](./pages/m01#entering-text-dates-and-numbers) | [Calculating with Formulas](./pages/m01#calculating-with-formulas) | [Calculating with Functions](./pages/m01#calculating-with-functions) |
 
 [Print Version](https://philcarter.github.io/COMP-109-Lecture/pages/m01)
+
 <a href="https://philcarter.github.io/COMP-109-Lecture/pages/m01" target="_blank"Print Version</a>
 
 ##### [Lecture 2: Formatting Workbook Text and Data](./pages/m02)
