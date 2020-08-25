@@ -1,0 +1,67 @@
+[#top]
+# Generating Reports from Multiple Worksheets and Workbooks
+## 2. External References and Links
+[Linking to External Workbooks](#linking-to-external-workbooks) | [Creating Hyperlinks](#creating-hyperlinks)
+
+![Session 5-2 Visual Overview](../images/modules/M05/Session%205-2.png) 
+
+## [](#linking-to-external-workbooks)Linking to External Workbooks
+
+When creating formulas in a workbook, reference data in other workbooks by creating a link between the workbooks. Unlike with worksheets, there’s no such thing as a workbook group. You can specify only one workbook at a time. To speed up the process of entering an external reference as well as to avoid a mistake, you can begin entering the formula and then use your mouse to select the cell or cell range from an already opened workbook
+
+###### Formula with an external reference
+![Figure 5-10 Formula with an external reference](../images/modules/M05/Figure%205-10.png)
+
+If both the destination and source workbooks are currently open, any changes you make to data in the source workbook will also be reflected in the destination workbook  
+You can view and edit the Excel security settings by clicking the File on the menu bar, clicking Options in Backstage view, and then clicking Trust Center in the Excel Options dialog box
+
+A list of all links in your workbook is available in the Edit Links dialog box. For each link, the Edit Links dialog box shows the following information:
+
+*   Source
+*   Type
+*   Update
+*   Status
+
+
+##### Proskills Decision Making: _Deciding when to Link Workbooks_
+>
+> <hr>At most businesses, a team works together to assemble data used in formulating policy and making decisions. Linked workbooks provide one way making information compiled by different people or departments accessible to the decision-makers. When choosing whether to create a structure of linked workbooks, consider the following questions:
+>
+> * Is a large workbook too difficult to use? While it may appear simpler to just keep everything within a single file, such workbooks can quickly become large and unwieldy. It is often better to divide information among several workbooks, allowing teams to focus on their own areas of expertise. However, keep in mind that a workbook with many links can also take a long time to open and update.
+> * Can separate workbooks share a common design and structure? Workbooks from different stores, branches, or departments need to have a uniform structure to avoid errors in data entry and analysis. Someone needs to be responsible for ensuring that all related documents adhere to a shared layout and structure.
+> * Can information from different workbooks be summarized? Is there an obvious way to summarize data from several source files within a single workbook, leaving the source files available for more in-depth analysis? Would important information be lost in such a summary?
+> * Can source workbooks continually be updated? Users of the summary workbook will often assume that the information is current and accurate. Are mechanisms in place for the timely update of key data?
+> * Will the source workbooks be available to the destination workbook? Data sources need to be accessible to relevant users so that links can be updated as needed and so the data itself can be reviewed for accuracy and completeness.
+>
+> If you can answer yes to these questions, then linked workbooks might be the solution to your data needs. Creating a system of linked files can lead to more reliable data management and ultimately better and more informed decisions. A system of linked workbooks can also provide the company with flexibility as data sources become more expansive and complex.
+>
+> <hr>
+
+##### Managing Workbook Links
+You cannot undo the break link action. To restore the link, you must reenter the external reference formulas  
+
+##### Deciding when to Link Workbooks
+*   Is a large workbook too difficult to use?
+*   Can separate workbooks share a common design and structure?
+*   Can information from different workbooks be summarized?
+*   Can source workbooks continually be updated?
+*   Will the source workbooks be available to the destination workbook?
+
+[Back to Top](#top)
+
+## [](#creating-hyperlinks)Creating Hyperlinks
+A hyperlink is a link to information within that file or another file. The hyperlinks are usually represented by colored words with underlines or images. Although hyperlinks are most often found on Web pages, they can also be placed in a worksheet and used to quickly jump to a specific cell or range within the active worksheet, another worksheet, another workbook, or to other files, such as a Word document or a PowerPoint presentation, or sites on the Web.
+
+A hyperlink is a text string or graphic image connected to a wide variety of resources, including:
+
+*   Websites
+*   Files on your computer, such as Word documents, PowerPoint presentations, text files, and PDF documents
+*   Cells and cell ranges within the current workbook
+*   Email addresses
+*   New documents created specifically as the source of the hyperlink
+
+
+###### Insert Hyperlink dialog box
+![Figure 5-14 Insert Hyperlink dialog box](../images/modules/M05/Figure%205-14.png)
+
+[Back to Top](#top)
