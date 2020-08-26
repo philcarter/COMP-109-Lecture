@@ -1,0 +1,119 @@
+# Managing Data with Data Tools
+[](#top)
+# 1 Data Ranges, Workbook Panes, and Subtotals
+[Handling Data in Excel](#handling-data-in-excel) | [Using Panes to View Data](#using-panes-to-view-data) | [Locating Duplicate Records](#locating-duplicate-records) | [Sorting Records in a Data Range](#sorting-records-in-a-data-range) | [Calculating Subtotals](#calculating-subtotals)
+
+![Session 6-1 Visual Overview](../images/modules/M06/Session%206-1.png) 
+
+## [](#handling-data-in-excel)Handling Data in Excel
+
+###### Employees worksheet
+![Figure 6-1 Employees worksheet](../images/modules/M06/Figure%206-1.png)
+
+*   Excel is a popular application for storing data and includes tools for managing and exploring that data.
+*   In a data range, each column stores information known as a field describing a characteristic of a person, place, or thing and each row stores a record containing a group of related field values.
+*   The first row of a data range, known as the header row , typically contains the field names.
+*   With any data range, it’s excellent practice to provide a data definition table , which lists the fields included with each record, the type of data stored in each field (such as numbers, text, or dates), and a short description of each field.
+
+##### Proskills Written Communication: _Planning for Data Entry_
+> <hr>Before entering data, you should plan how that data should be structured to best achieve your goals. Those goals help to determine the fields needed for each record. Consider each of the following:
+> 
+> *   Who can view the data, and which fields contain confidential information available to a select few
+> *   What questions you want answered, and what fields are required to generate those answers
+> *   What reports you want generated for different audiences (supervisors, customers, directors, etc.)
+> *   How often the data needs to be updated, and who is responsible for ensuring data accuracy
+>
+>After you have identified the data needed and how it should be organized, you can set up your worksheet. Keep in mind the following guidelines:
+> 
+> *   Use short, descriptive field names that are easy to remember and fit more fields in the window without scrolling.
+> *   Distinguish field names from the data records with different colors and font styles.
+> *   Break fields into single units of information, such as one field for the city name and another field for the state name.
+> *   Separate the data range from other information in the worksheet with at least one blank row and one blank column.
+> 
+> With careful and thorough planning, you will avoid having to redesign your worksheet after you start entering data.
+<hr>
+
+[Back to Top](#top)
+
+## [](#using-panes-to-view-data)Using Panes to View Data
+
+##### Dividing the Workbook Window into Panes
+Excel can split the workbook window in up to four sections called panes with each pane offering a separate view into the worksheet
+
+###### Workbook window split into four panes
+![Figure 6-3 Workbook window split into four panes](../images/modules/M06/Figure%206-3.png)
+
+
+##### Freezing Panes
+When you freeze a pane, its contents are always visible though you cannot scroll ithin it. You can freeze the panes located to the top and left of a selected cell, allowing scrolling within the lower-right pane.
+
+> Tip: You can remove panes by double-clicking the split bar.
+
+[Back to Top](#top)
+
+## [](#locating-duplicate-records)Locating Duplicate Records
+When a worksheet has a lot of data, data entry errors are almost sure to occur. One common error is creating a duplicate record in which the same record appears multiple times in the worksheet.
+
+##### Highlighting Duplicate Values
+You can use conditional formatting to locate a duplicate record by highlighting duplicate values within a selected range
+
+###### Conditional formatting highlights cells with duplicate values
+![Figure 6-5 Conditional formatting highlights cells with duplicate values](../images/modules/M06/Figure%206-5.png)
+
+##### Removing Duplicate Records
+*   Click any cell in the data range.
+*   On the Data tab, in the Data Tools group, click the Remove Duplicates button.
+*   Select the check boxes for the fields that you want to check for duplicates.
+*   Click OK to remove records containing duplicates of all of the selected fields.
+
+> Tip: The conditional formatting rule will highlight duplicate values even if they are not adjacent to each other.
+
+[Back to Top](#top)
+
+## [](#sorting-records-in-a-data-range)Sorting Records in a Data Range
+
+##### Sorting by a Single Field
+
+*   The records in an Excel table initially appear in the order they were entered; you can view the same records in a different order
+*   Ascending order arranges text alphabetically from A to Z, numbers from smallest to largest, and dates from oldest to newest
+*   Descending order arranges text in reverse alphabetical order from Z to A, numbers from largest to smallest, and dates from newest to oldest
+*   Use the Sort A to Z button or the Sort Z to A button to sort data quickly with one sort field
+
+###### Data sorted based on a single column
+![Figure 6-7 Data sorted based on a single column](../images/modules/M06/Figure%206-7.png)
+
+
+##### Sorting by Multiple Fields
+*   The first sort field is called the primary sort field
+*   The second sort is called the secondary sort field
+*   Up to 64 sort fields possible
+
+##### Sorting with a Custom List
+*   A custom list indicates sequence to order data
+*   Two predefined custom sort lists
+*   Day-of-the-week custom list
+*   Month-of-the-year custom lists
+
+You can create a custom list to sort records in a sequence you define
+
+> Tip: You can select any cell in a data column to sort the rows by the values in that column.
+
+[Back to Top](#top)
+
+## [](#calculating-subtotals)Calculating Subtotals
+
+##### Creating a Subtotal Row
+
+Some analysis requires calculations on sections of a data range. To do this, you can add subtotals , which are summary functions that are applied to a part of a data range
+
+
+###### Total compensation spent on employees in the Boston office
+![Figure 6-12 Total compensation spent on employees in the Boston office](../images/modules/M06/Figure%206-12.png)
+
+
+
+##### Using the Subtotal Outline View
+
+The outline tool lets you control the level of detail displayed in the worksheet.[](#filters-and-excel-tables)
+
+[Back to Top](#top)
