@@ -8,8 +8,7 @@
 
 [Formatting Numbers](./pages/m02#formatting-numbers) | [Formatting Cell Text](./pages/m02#formatting-cell-text) | [Working with Fill Colors and Backgrounds](./pages/m02#working-with-fill-colors-and-backgrounds) | [Formatting Worksheet Cells](./pages/m02#formatting-worksheet-cells) | [Applying Cell Styles](./pages/m02#applying-cell-styles) | [Copying and Pasting Formats](./pages/m02#copying-and-pasting-formats) | [Highlighting Cells with Conditional Formats](./pages/m02#highlighting-cells-with-conditional-formats) | [Summary](./pages/m02#summary) |
 
-#### Lecture 3: Performing Calculations with Formulas and Functions
-
+##### Lecture 3: Performing Calculations with Formulas and Functions
 ##### [1. Formulas and Functions](./pages/m03a)
 
 [Microsoft Excel terminology](#microsoft-excel-terminology) | [Designing a Workbook for Calculations](#designing-a-workbook-for-calculations) | [Calculating with Dates and Times](#calculating-with-dates-and-times) | [AutoFilling Formulas and Data Patterns](#autofilling-formulas-and-data-patterns) | [Applying Excel Functions](#applying-excel-functions) | [Date and Time Functions](#date-and-time-functions) | [Interpreting Error Values](#interpreting-error-values) |
