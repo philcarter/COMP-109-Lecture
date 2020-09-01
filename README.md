@@ -4,32 +4,38 @@
 #### [Lecture 2 - _Formatting Workbook Text and Data_](./pages/m02)
 
 #### Lecture 3 - Performing Calculations with Formulas and Functions
-##### [_Formulas and Functions_](./pages/m03a)
-##### [_Lookup Tables and Logical Functions_](./pages/m03b)
+
+##### [_Formulas and Functions_](./pages/m03a) |
+##### [_Lookup Tables and Logical Functions_](./pages/m03b) |
 
 #### Lecture 4 - Analyzing and Charting Financial Data
-##### [_Chart Elements_](./pages/m4a)
-##### [_Scatter Charts, Data Bars, and Sparklines_](./pages/m04b)
+
+##### [_Chart Elements_](./pages/m4a) |
+##### [_Scatter Charts, Data Bars, and Sparklines_](./pages/m04b) |
 
 #### Lecture 5 - Generating Reports from Multiple Worksheets and Workbooks
-##### [_Worksheet Groups and 3-D References_](./pages/m05a)
-##### [_External References and Links_](./pages/m05b)
-##### [_Named Ranges and Templates_](./pages/m05c)
+
+##### [_Worksheet Groups and 3-D References_](./pages/m05a) |
+##### [_External References and Links_](./pages/m05b) |
+##### [_Named Ranges and Templates_](./pages/m05c) |
 
 #### Lecture 6 - Managing Data with Data Tools
-##### [_Data Ranges, Workbook Panes, and Subtotals_](./pages/m06a)
-##### [_Filters and Excel Tables_](./pages/m06b)
-##### [_Slicers and Dashboard_](./pages/m06c)
+
+##### [_Data Ranges, Workbook Panes, and Subtotals_](./pages/m06a) |
+##### [_Filters and Excel Tables_](./pages/m06b) |
+##### [_Slicers and Dashboard_](./pages/m06c) |
 
 #### Lecture 7 - Summarizing Data with PivotTables
-##### [_Summary IF Functions and VLOOKUP_](./pages/m07a)
-##### [_PivotTables_](./pages/m07b)
-##### [_PivotCharts and Slicers_](./pages/m07c)
+
+##### [_Summary IF Functions and VLOOKUP_](./pages/m07a) |
+##### [_PivotTables_](./pages/m07b) |
+##### [_PivotCharts and Slicers_](./pages/m07c) |
 
 #### Lecture 8 - Performing What-If Analyses
-##### [_Data Tables and What-If Analysis_](./pages/m08a)
-##### [_What-If Scenarios_](./pages/m08b)
-##### [_Optimal Solutions with Solver_](./pages/m08c)
+
+##### [_Data Tables and What-If Analysis_](./pages/m08a) |
+##### [_What-If Scenarios_](./pages/m08b) |
+##### [_Optimal Solutions with Solver_](./pages/m08c) |
 
 ##### [Lecture 1 - Getting Started with Excel](./pages/m01) 
 ##### [Lecture 2 - Formatting Workbook Text and Data](./pages/m02)
