@@ -15,7 +15,7 @@
 
 #### Lecture 4 - Analyzing and Charting Financial Data
 
-[_Chart Elements_](./pages/m4a) |
+[_Chart Elements_](./pages/m04a) |
 [_Scatter Charts, Data Bars, and Sparklines_](./pages/m04b) |
 
 #### Lecture 5 - Generating Reports from Multiple Worksheets and Workbooks
