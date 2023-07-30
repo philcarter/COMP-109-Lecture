@@ -66,3 +66,5 @@
 [_WordArt and Funnel Charts_](./pages/m12a) |
 [_Data Validation and Workbook Protection_](./pages/m12b) |
 [_Macros and Visual Basic for Applications_](./pages/m12c) |
+
+This content is protected and may not be shared, uploaded or distributed. © Phil Carter 2023
